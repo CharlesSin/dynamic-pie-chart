@@ -3,6 +3,7 @@
 - [General info](#general-info)
 - [Technologies](#technologies)
 - [Setup](#setup)
+- [Screenshot](#screenshot)
 
 ## General info
 
@@ -27,4 +28,5 @@ $ npm install
 $ npm start
 ```
 
+## Screenshot
 ![Algorithm schema](./screenshot.jpg)
