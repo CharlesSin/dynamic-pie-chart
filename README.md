@@ -26,3 +26,5 @@ $ cd dynamic-pie-chart
 $ npm install
 $ npm start
 ```
+
+![Algorithm schema](./screenshot.jpg)
